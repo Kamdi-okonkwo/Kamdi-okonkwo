@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**Kamdi-okonkwo/Kamdi-okonkwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Kamdilichukwu Okonkwo 👋
 
-Here are some ideas to get you started:
+🎓 **Computer Science Student** | 💻 **Aspiring Full-Stack Developer** | 🤖 **AI & Open-Source Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub!  
+I’m passionate about **building impactful applications**, **exploring AI/ML**, and **contributing to open-source**.  
+Always curious, always learning. 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript (ES6+), TypeScript, C++, Java  
+- **Frontend**: React, Next.js, Tailwind CSS, Chakra UI  
+- **Backend**: Node.js, Express.js, Django, Strapi  
+- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase  
+- **Other Tools**: Git, GitHub, Docker, Linux, VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+
+## ✨ Fun Facts
+
+- 🌱 Currently learning **Data Structures & Algorithms** and **Machine Learning**  
+- 🎮 Love exploring **game development** and **creative coding**  
+- 📖 Enjoy reading about **AI ethics & emerging tech trends**  
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
+
